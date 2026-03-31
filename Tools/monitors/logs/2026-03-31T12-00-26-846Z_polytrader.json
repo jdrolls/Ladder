@@ -1,0 +1,15 @@
+{
+  "monitor": "polytrader",
+  "timestamp": "2026-03-31T12:00:26.846Z",
+  "findings_count": 1,
+  "submitted_count": 1,
+  "submitted_ids": [
+    "SR-00004"
+  ],
+  "findings": [
+    {
+      "title": "Polytrader realized P&L at -$765.64 (9.0% loss)",
+      "domain": "prediction-markets"
+    }
+  ]
+}
